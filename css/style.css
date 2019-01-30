@@ -60,3 +60,19 @@ text-transform: uppercase;
 .caption .border.trans{
     background-color: rgba(0,0,0,0.5);
 }
+
+/* section styling*/
+.section{
+    text-align: center;
+    padding: 50px 80px;
+}
+
+.section.section-dark{
+    background-color: #282e34;
+    color: #ddd;
+}
+
+.section.section-light{
+    background-color: #f4f4f4;
+    color: #666;
+}
