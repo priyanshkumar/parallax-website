@@ -76,3 +76,11 @@ text-transform: uppercase;
     background-color: #f4f4f4;
     color: #666;
 }
+
+@media (max-width: 568px) {
+    body > div.pimg1,
+    body > div.pimg2,
+    body > div.pimg3{     
+        background-attachment: scroll;  
+}
+}
